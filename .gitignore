@@ -1,0 +1,17 @@
+# Exported/Rendered images
+*.png
+*.eps
+
+# Exported 3D-models
+*.blend
+*.stl
+
+# Sublime Text
+*.sublime*
+
+# TeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.pdf
